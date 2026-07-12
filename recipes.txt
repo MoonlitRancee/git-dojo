@@ -4,3 +4,4 @@
 3. Chocolate cake
 4. Soup (unfinished)
 5. Fried rice (added from GitHub)
+6. Spaghetti (added from GitHub)
